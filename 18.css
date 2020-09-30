@@ -1,0 +1,17 @@
+body{
+    position: relative;
+    padding: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+}
+.button{
+    background-color: lightblue ;
+    width: 100%;
+    border-radius: 50px;
+}
+.button:hover{
+    background-color: orange;
+}
+#result{
+    width:100%;
+}
